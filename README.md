@@ -1,6 +1,6 @@
 # Travel - A Responsive Travel Agency Website
 
-![Travel Website Screenshot](./path/to/your/screenshot.png)
+![Travel Website Screenshot](https://raw.githubusercontent.com/praveen05-hub/touring-site/refs/heads/main/images/background%20img.png)
 
 A fully responsive, front-end website for a modern travel agency. This project was created as a portfolio piece to demonstrate a strong foundation in web development, an eye for design, and a focus on creating an excellent user experience. The website provides an engaging platform for users to browse travel packages, learn about services, and get inspired for their next adventure.
 
